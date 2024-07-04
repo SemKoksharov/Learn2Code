@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: eserver
+
+server:
+  port: 8081
+
+eureka:
+  server:
+    enable-self-preservation: false
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+  instance:
+    hostname: localhost  # Необходимо указать имя хоста для регистрации в Eureka
+    prefer-ip-address: true
+
+logging:
+  level:
+    com.netflix:
+      eureka: OFF
+      discovery: OFF

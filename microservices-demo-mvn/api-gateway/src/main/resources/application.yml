@@ -1,0 +1,31 @@
+server:
+  port: 8082
+
+spring:
+  application:
+    name: api-gateway
+  cloud:
+    gateway:
+      routes:
+        - id: eclient
+          uri: lb://ECLIENT
+          predicates:
+            - Path=/cli/**
+          filters:
+            - AddRequestHeader=X-Request-Foo, Bar
+            - AddResponseHeader=X-Response-Foo, Bar
+    discovery:
+      locator:
+        enabled: true
+        lower-case-service-id: true
+  loadbalancer:
+    retry:
+      enabled: true
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8081/eureka/
+  instance:
+    prefer-ip-address: true
+
