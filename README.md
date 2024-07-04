@@ -53,4 +53,4 @@ Feel free to fork this repository, submit issues, or contribute with your own ex
 Contact
 LinkedIn: [SemKoksharov](https://www.linkedin.com/in/semkoksharov/) 💼
 GitHub: [SemKoksharov](https://github.com/SemKoksharov/) 📦
-Emailmail: [kokshse196@proton.me](mailto:kokshse196@proton.me)📧
+Email: [kokshse196@proton.me](mailto:kokshse196@proton.me)📧
