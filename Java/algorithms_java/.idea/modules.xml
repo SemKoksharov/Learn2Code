@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Alg-2-find-min-element-in-array.iml" filepath="$PROJECT_DIR$/Alg-2-find-min-element-in-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithms_java.iml" filepath="$PROJECT_DIR$/algorithms_java.iml" />
     </modules>
   </component>
 </project>
