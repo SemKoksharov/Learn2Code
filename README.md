@@ -1,8 +1,20 @@
 # My Learning Journey Repository
 
 Welcome to my learning journey repository! Here I document new technologies, samples, patterns, and more as I learn them. 🚀
-![Commit Stats](https://github-readme-streak-stats.herokuapp.com/?user=SemKoksharov&theme=radical&hide_border=true&ring=DD2727&fire=DD2727)
-![Contribution Stats](https://github-readme-stats.vercel.app/api?username=SemKoksharov&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
+<table>
+  <tr>
+    <td>
+      <h3>Commit Statistics</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SemKoksharov&theme=radical&hide_border=true&ring=DD2727&fire=DD2727" alt="Commit Stats">
+    </td>
+    <td>
+      <h3>Overall Contribution Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=SemKoksharov&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Contribution Stats">
+    </td>
+  </tr>
+</table>
+
 
 ## Technologies and Tools
 
