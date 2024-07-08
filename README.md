@@ -45,9 +45,10 @@ Welcome to my learning journey repository! Here I document new technologies, sam
 ## Getting Started
 
 Clone this repository to explore examples and tutorials related to the technologies listed above.
+- Clone the repository🚀 :
+   ```bash
+   git clone https://github.com/SemKoksharov/learn2code.git
 
-git clone https://github.com/SemKoksharov/learn2code.git
-cd your-repo
 
 Contributions
 Feel free to fork this repository, submit issues, or contribute with your own examples and improvements!
