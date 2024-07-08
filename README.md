@@ -1,6 +1,8 @@
 # My Learning Journey Repository
 
 Welcome to my learning journey repository! Here I document new technologies, samples, patterns, and more as I learn them. 🚀
+![Commit Stats](https://github-readme-streak-stats.herokuapp.com/?user=SemKoksharov&theme=radical&hide_border=true&ring=DD2727&fire=DD2727)
+![Contribution Stats](https://github-readme-stats.vercel.app/api?username=SemKoksharov&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
 ## Technologies and Tools
 
@@ -50,7 +52,10 @@ cd your-repo
 Contributions
 Feel free to fork this repository, submit issues, or contribute with your own examples and improvements!
 
-Contact
-LinkedIn: [SemKoksharov](https://www.linkedin.com/in/semkoksharov/) 💼
-GitHub: [SemKoksharov](https://github.com/SemKoksharov/) 📦
-Email: [kokshse196@proton.me](mailto:kokshse196@proton.me)📧
+## 📫 Contact Me
+
+- 📱 +39 320 269 63 23
+- 📍 10144 Torino, Italy
+- 📧 [kokshse196@proton.me](mailto:kokshse196@proton.me)
+- 📦 [GitHub](https://github.com/SemKoksharov)
+- 💼 [LinkedIn](https://www.linkedin.com/in/SemKoksharov)
