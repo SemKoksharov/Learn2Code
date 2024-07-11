@@ -8,7 +8,7 @@ public class SearchingForFilesInFolders {
     public static void main(String[] args) {
         List<File> found = new ArrayList<>();
 
-        String typeToSearch = FileType.PNG_IMAGE.getExtension();
+        String typeToSearch = FileType.AUDIO_MP3.getExtension();
 
         searchFile(new File("/home/semkoksharov66/"), found, typeToSearch);
 

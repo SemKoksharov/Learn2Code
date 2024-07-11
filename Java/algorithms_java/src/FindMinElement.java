@@ -17,7 +17,7 @@ public class FindMinElement {
 
             }
         }
-        // Print the min alue
+        // Print the min value
         System.out.println("min value = " + minValue);
         // Print the index of the min value
         System.out.println("min index = " + minIndex);
