@@ -1,0 +1,15 @@
+/home/semkoksharov66/Projects/Learn2Code/C#/1-CSharpBasics/1-CSharpBasics/bin/Debug/net8.0/1-CSharpBasics
+/home/semkoksharov66/Projects/Learn2Code/C#/1-CSharpBasics/1-CSharpBasics/bin/Debug/net8.0/1-CSharpBasics.deps.json
+/home/semkoksharov66/Projects/Learn2Code/C#/1-CSharpBasics/1-CSharpBasics/bin/Debug/net8.0/1-CSharpBasics.runtimeconfig.json
+/home/semkoksharov66/Projects/Learn2Code/C#/1-CSharpBasics/1-CSharpBasics/bin/Debug/net8.0/1-CSharpBasics.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/1-CSharpBasics/1-CSharpBasics/bin/Debug/net8.0/1-CSharpBasics.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/1-CSharpBasics/1-CSharpBasics/obj/Debug/net8.0/1-CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+/home/semkoksharov66/Projects/Learn2Code/C#/1-CSharpBasics/1-CSharpBasics/obj/Debug/net8.0/1-CSharpBasics.AssemblyInfoInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/1-CSharpBasics/1-CSharpBasics/obj/Debug/net8.0/1-CSharpBasics.AssemblyInfo.cs
+/home/semkoksharov66/Projects/Learn2Code/C#/1-CSharpBasics/1-CSharpBasics/obj/Debug/net8.0/1-CSharpBasics.csproj.CoreCompileInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/1-CSharpBasics/1-CSharpBasics/obj/Debug/net8.0/1-CSharpBasics.sourcelink.json
+/home/semkoksharov66/Projects/Learn2Code/C#/1-CSharpBasics/1-CSharpBasics/obj/Debug/net8.0/1-CSharpBasics.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/1-CSharpBasics/1-CSharpBasics/obj/Debug/net8.0/refint/1-CSharpBasics.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/1-CSharpBasics/1-CSharpBasics/obj/Debug/net8.0/1-CSharpBasics.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/1-CSharpBasics/1-CSharpBasics/obj/Debug/net8.0/1-CSharpBasics.genruntimeconfig.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/1-CSharpBasics/1-CSharpBasics/obj/Debug/net8.0/ref/1-CSharpBasics.dll
