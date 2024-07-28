@@ -1,0 +1,15 @@
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringFormatting/bin/Debug/net8.0/StringFormatting
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringFormatting/bin/Debug/net8.0/StringFormatting.deps.json
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringFormatting/bin/Debug/net8.0/StringFormatting.runtimeconfig.json
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringFormatting/bin/Debug/net8.0/StringFormatting.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringFormatting/bin/Debug/net8.0/StringFormatting.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringFormatting/obj/Debug/net8.0/StringFormatting.GeneratedMSBuildEditorConfig.editorconfig
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringFormatting/obj/Debug/net8.0/StringFormatting.AssemblyInfoInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringFormatting/obj/Debug/net8.0/StringFormatting.AssemblyInfo.cs
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringFormatting/obj/Debug/net8.0/StringFormatting.csproj.CoreCompileInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringFormatting/obj/Debug/net8.0/StringFormatting.sourcelink.json
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringFormatting/obj/Debug/net8.0/StringFormatting.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringFormatting/obj/Debug/net8.0/refint/StringFormatting.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringFormatting/obj/Debug/net8.0/StringFormatting.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringFormatting/obj/Debug/net8.0/StringFormatting.genruntimeconfig.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringFormatting/obj/Debug/net8.0/ref/StringFormatting.dll

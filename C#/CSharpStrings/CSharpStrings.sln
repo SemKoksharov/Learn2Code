@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainMethods", "CSharpStringsMainMethods\MainMethods.csproj", "{34E04379-BA66-4DA2-A4D1-694C4D6C4414}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryingStrings", "QueryingStrings\QueryingStrings.csproj", "{A803405E-5CF9-4339-A681-CFB02B308E11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFormatting", "StringFormatting\StringFormatting.csproj", "{48D15749-B5E8-4A6A-A8A8-93474A4F057C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34E04379-BA66-4DA2-A4D1-694C4D6C4414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E04379-BA66-4DA2-A4D1-694C4D6C4414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E04379-BA66-4DA2-A4D1-694C4D6C4414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E04379-BA66-4DA2-A4D1-694C4D6C4414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A803405E-5CF9-4339-A681-CFB02B308E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A803405E-5CF9-4339-A681-CFB02B308E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A803405E-5CF9-4339-A681-CFB02B308E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A803405E-5CF9-4339-A681-CFB02B308E11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48D15749-B5E8-4A6A-A8A8-93474A4F057C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D15749-B5E8-4A6A-A8A8-93474A4F057C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D15749-B5E8-4A6A-A8A8-93474A4F057C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D15749-B5E8-4A6A-A8A8-93474A4F057C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

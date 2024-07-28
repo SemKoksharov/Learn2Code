@@ -1,0 +1,15 @@
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/CSharpStrings2/bin/Debug/net8.0/CSharpStrings2
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/CSharpStrings2/bin/Debug/net8.0/CSharpStrings2.deps.json
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/CSharpStrings2/bin/Debug/net8.0/CSharpStrings2.runtimeconfig.json
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/CSharpStrings2/bin/Debug/net8.0/CSharpStrings2.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/CSharpStrings2/bin/Debug/net8.0/CSharpStrings2.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/CSharpStrings2/obj/Debug/net8.0/CSharpStrings2.GeneratedMSBuildEditorConfig.editorconfig
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/CSharpStrings2/obj/Debug/net8.0/CSharpStrings2.AssemblyInfoInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/CSharpStrings2/obj/Debug/net8.0/CSharpStrings2.AssemblyInfo.cs
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/CSharpStrings2/obj/Debug/net8.0/CSharpStrings2.csproj.CoreCompileInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/CSharpStrings2/obj/Debug/net8.0/CSharpStrings2.sourcelink.json
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/CSharpStrings2/obj/Debug/net8.0/CSharpStrings2.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/CSharpStrings2/obj/Debug/net8.0/refint/CSharpStrings2.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/CSharpStrings2/obj/Debug/net8.0/CSharpStrings2.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/CSharpStrings2/obj/Debug/net8.0/CSharpStrings2.genruntimeconfig.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/CSharpStrings2/obj/Debug/net8.0/ref/CSharpStrings2.dll
