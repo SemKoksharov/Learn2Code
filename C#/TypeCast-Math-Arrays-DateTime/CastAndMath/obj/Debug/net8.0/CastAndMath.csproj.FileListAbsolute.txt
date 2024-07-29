@@ -1,0 +1,15 @@
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/CastAndMath/bin/Debug/net8.0/CastAndMath
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/CastAndMath/bin/Debug/net8.0/CastAndMath.deps.json
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/CastAndMath/bin/Debug/net8.0/CastAndMath.runtimeconfig.json
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/CastAndMath/bin/Debug/net8.0/CastAndMath.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/CastAndMath/bin/Debug/net8.0/CastAndMath.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/CastAndMath/obj/Debug/net8.0/CastAndMath.GeneratedMSBuildEditorConfig.editorconfig
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/CastAndMath/obj/Debug/net8.0/CastAndMath.AssemblyInfoInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/CastAndMath/obj/Debug/net8.0/CastAndMath.AssemblyInfo.cs
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/CastAndMath/obj/Debug/net8.0/CastAndMath.csproj.CoreCompileInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/CastAndMath/obj/Debug/net8.0/CastAndMath.sourcelink.json
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/CastAndMath/obj/Debug/net8.0/CastAndMath.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/CastAndMath/obj/Debug/net8.0/refint/CastAndMath.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/CastAndMath/obj/Debug/net8.0/CastAndMath.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/CastAndMath/obj/Debug/net8.0/CastAndMath.genruntimeconfig.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/CastAndMath/obj/Debug/net8.0/ref/CastAndMath.dll

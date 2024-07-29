@@ -1,0 +1,15 @@
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/TypeCast-Math-Arrays-DateTime/bin/Debug/net8.0/TypeCast-Math-Arrays-DateTime
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/TypeCast-Math-Arrays-DateTime/bin/Debug/net8.0/TypeCast-Math-Arrays-DateTime.deps.json
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/TypeCast-Math-Arrays-DateTime/bin/Debug/net8.0/TypeCast-Math-Arrays-DateTime.runtimeconfig.json
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/TypeCast-Math-Arrays-DateTime/bin/Debug/net8.0/TypeCast-Math-Arrays-DateTime.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/TypeCast-Math-Arrays-DateTime/bin/Debug/net8.0/TypeCast-Math-Arrays-DateTime.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/TypeCast-Math-Arrays-DateTime/obj/Debug/net8.0/TypeCast-Math-Arrays-DateTime.GeneratedMSBuildEditorConfig.editorconfig
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/TypeCast-Math-Arrays-DateTime/obj/Debug/net8.0/TypeCast-Math-Arrays-DateTime.AssemblyInfoInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/TypeCast-Math-Arrays-DateTime/obj/Debug/net8.0/TypeCast-Math-Arrays-DateTime.AssemblyInfo.cs
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/TypeCast-Math-Arrays-DateTime/obj/Debug/net8.0/TypeCast-Math-Arrays-DateTime.csproj.CoreCompileInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/TypeCast-Math-Arrays-DateTime/obj/Debug/net8.0/TypeCast-Math-Arrays-DateTime.sourcelink.json
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/TypeCast-Math-Arrays-DateTime/obj/Debug/net8.0/TypeCast-Math-Arrays-DateTime.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/TypeCast-Math-Arrays-DateTime/obj/Debug/net8.0/refint/TypeCast-Math-Arrays-DateTime.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/TypeCast-Math-Arrays-DateTime/obj/Debug/net8.0/TypeCast-Math-Arrays-DateTime.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/TypeCast-Math-Arrays-DateTime/obj/Debug/net8.0/TypeCast-Math-Arrays-DateTime.genruntimeconfig.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/TypeCast-Math-Arrays-DateTime/obj/Debug/net8.0/ref/TypeCast-Math-Arrays-DateTime.dll
