@@ -1,0 +1,15 @@
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/DateTime/bin/Debug/net8.0/DateTime
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/DateTime/bin/Debug/net8.0/DateTime.deps.json
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/DateTime/bin/Debug/net8.0/DateTime.runtimeconfig.json
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/DateTime/bin/Debug/net8.0/DateTime.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/DateTime/bin/Debug/net8.0/DateTime.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/DateTime/obj/Debug/net8.0/DateTime.GeneratedMSBuildEditorConfig.editorconfig
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/DateTime/obj/Debug/net8.0/DateTime.AssemblyInfoInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/DateTime/obj/Debug/net8.0/DateTime.AssemblyInfo.cs
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/DateTime/obj/Debug/net8.0/DateTime.csproj.CoreCompileInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/DateTime/obj/Debug/net8.0/DateTime.sourcelink.json
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/DateTime/obj/Debug/net8.0/DateTime.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/DateTime/obj/Debug/net8.0/refint/DateTime.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/DateTime/obj/Debug/net8.0/DateTime.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/DateTime/obj/Debug/net8.0/DateTime.genruntimeconfig.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/TypeCast-Math-Arrays-DateTime/DateTime/obj/Debug/net8.0/ref/DateTime.dll

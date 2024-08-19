@@ -1,5 +1,6 @@
 ﻿namespace StringFormatting
 {
+    // String formatting lesson
     class Program
     {
         static void Main(string[] args)
@@ -58,6 +59,8 @@
 
             string newRes = $"{money:C2}";
             Console.WriteLine($"New Result = {newRes}");
+
+        
         }
     }
 }

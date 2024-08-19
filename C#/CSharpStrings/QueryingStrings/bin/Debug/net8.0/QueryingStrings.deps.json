@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "CSharpStrings2/1.0.0": {
+      "QueryingStrings/1.0.0": {
         "runtime": {
-          "CSharpStrings2.dll": {}
+          "QueryingStrings.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "CSharpStrings2/1.0.0": {
+    "QueryingStrings/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -7,18 +7,16 @@ spring:
   cloud:
     gateway:
       routes:
-        - id: eclient
-          uri: ${ECLIENT_ROUTE_URI:http://localhost:44305}
+        - id: eclient-route
+          uri: lb://eclient
           predicates:
             - Path=/cli/**
           filters:
-            - AddRequestHeader=X-Request-Foo, Bar
-            - AddResponseHeader=X-Response-Foo, Bar
-    discovery:
-      enabled: true
-    loadbalancer:
-      retry:
-        enabled: true
+            - StripPrefix=1
+      discovery:
+        locator:
+          enabled: true
+          lower-case-service-id: true
 
 eureka:
   client:
@@ -26,4 +24,3 @@ eureka:
       defaultZone: http://localhost:8081/eureka/
   instance:
     prefer-ip-address: true
-

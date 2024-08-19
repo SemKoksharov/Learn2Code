@@ -1,0 +1,15 @@
+/home/semkoksharov66/Projects/Learn2Code/C#/Logics/if-else/bin/Debug/net8.0/if-else
+/home/semkoksharov66/Projects/Learn2Code/C#/Logics/if-else/bin/Debug/net8.0/if-else.deps.json
+/home/semkoksharov66/Projects/Learn2Code/C#/Logics/if-else/bin/Debug/net8.0/if-else.runtimeconfig.json
+/home/semkoksharov66/Projects/Learn2Code/C#/Logics/if-else/bin/Debug/net8.0/if-else.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/Logics/if-else/bin/Debug/net8.0/if-else.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/Logics/if-else/obj/Debug/net8.0/if-else.GeneratedMSBuildEditorConfig.editorconfig
+/home/semkoksharov66/Projects/Learn2Code/C#/Logics/if-else/obj/Debug/net8.0/if-else.AssemblyInfoInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/Logics/if-else/obj/Debug/net8.0/if-else.AssemblyInfo.cs
+/home/semkoksharov66/Projects/Learn2Code/C#/Logics/if-else/obj/Debug/net8.0/if-else.csproj.CoreCompileInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/Logics/if-else/obj/Debug/net8.0/if-else.sourcelink.json
+/home/semkoksharov66/Projects/Learn2Code/C#/Logics/if-else/obj/Debug/net8.0/if-else.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/Logics/if-else/obj/Debug/net8.0/refint/if-else.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/Logics/if-else/obj/Debug/net8.0/if-else.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/Logics/if-else/obj/Debug/net8.0/if-else.genruntimeconfig.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/Logics/if-else/obj/Debug/net8.0/ref/if-else.dll

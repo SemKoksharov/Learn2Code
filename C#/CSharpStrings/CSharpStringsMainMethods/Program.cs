@@ -1,7 +1,8 @@
-﻿namespace CSharpStrings
+﻿namespace MainMethods
 {
     class MainMethods
     {
+        // String main methods lesson
         static void Main(string[] args)
         {
             string myString = "abracadabra";

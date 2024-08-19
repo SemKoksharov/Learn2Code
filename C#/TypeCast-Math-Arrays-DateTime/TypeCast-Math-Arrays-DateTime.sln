@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastAndMath", "CastAndMath\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{A75BAF4D-3087-4F49-BB40-02CD5ADBB175}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime", "DateTime\DateTime.csproj", "{66A6B970-CC97-40A5-BD06-0335F45ECFC1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateAndTime", "DateAndTime\DateAndTime.csproj", "{43B81987-4D3C-48AD-9192-A89BDFF74C18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,9 +20,9 @@ Global
 		{A75BAF4D-3087-4F49-BB40-02CD5ADBB175}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A75BAF4D-3087-4F49-BB40-02CD5ADBB175}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A75BAF4D-3087-4F49-BB40-02CD5ADBB175}.Release|Any CPU.Build.0 = Release|Any CPU
-		{66A6B970-CC97-40A5-BD06-0335F45ECFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{66A6B970-CC97-40A5-BD06-0335F45ECFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{66A6B970-CC97-40A5-BD06-0335F45ECFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{66A6B970-CC97-40A5-BD06-0335F45ECFC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B81987-4D3C-48AD-9192-A89BDFF74C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B81987-4D3C-48AD-9192-A89BDFF74C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B81987-4D3C-48AD-9192-A89BDFF74C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B81987-4D3C-48AD-9192-A89BDFF74C18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

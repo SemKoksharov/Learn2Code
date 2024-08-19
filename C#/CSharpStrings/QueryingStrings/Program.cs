@@ -1,9 +1,9 @@
 ﻿using System.Text;
 
-namespace CSharpStrings2
+namespace QueryingStrings
 {
-
-    class  QueryingStrings
+    // String querying lesson
+    class  Program
     {
         static void Main(string[] args)
         {

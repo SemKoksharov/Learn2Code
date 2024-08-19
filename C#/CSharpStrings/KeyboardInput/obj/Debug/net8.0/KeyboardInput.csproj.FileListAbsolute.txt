@@ -1,0 +1,15 @@
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/KeyboardInput/bin/Debug/net8.0/KeyboardInput
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/KeyboardInput/bin/Debug/net8.0/KeyboardInput.deps.json
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/KeyboardInput/bin/Debug/net8.0/KeyboardInput.runtimeconfig.json
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/KeyboardInput/bin/Debug/net8.0/KeyboardInput.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/KeyboardInput/bin/Debug/net8.0/KeyboardInput.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/KeyboardInput/obj/Debug/net8.0/KeyboardInput.GeneratedMSBuildEditorConfig.editorconfig
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/KeyboardInput/obj/Debug/net8.0/KeyboardInput.AssemblyInfoInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/KeyboardInput/obj/Debug/net8.0/KeyboardInput.AssemblyInfo.cs
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/KeyboardInput/obj/Debug/net8.0/KeyboardInput.csproj.CoreCompileInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/KeyboardInput/obj/Debug/net8.0/KeyboardInput.sourcelink.json
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/KeyboardInput/obj/Debug/net8.0/KeyboardInput.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/KeyboardInput/obj/Debug/net8.0/refint/KeyboardInput.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/KeyboardInput/obj/Debug/net8.0/KeyboardInput.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/KeyboardInput/obj/Debug/net8.0/KeyboardInput.genruntimeconfig.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/KeyboardInput/obj/Debug/net8.0/ref/KeyboardInput.dll

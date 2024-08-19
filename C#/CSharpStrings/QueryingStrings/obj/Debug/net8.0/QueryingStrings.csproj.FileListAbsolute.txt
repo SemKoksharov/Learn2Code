@@ -1,0 +1,15 @@
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/QueryingStrings/bin/Debug/net8.0/QueryingStrings
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/QueryingStrings/bin/Debug/net8.0/QueryingStrings.deps.json
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/QueryingStrings/bin/Debug/net8.0/QueryingStrings.runtimeconfig.json
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/QueryingStrings/bin/Debug/net8.0/QueryingStrings.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/QueryingStrings/bin/Debug/net8.0/QueryingStrings.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/QueryingStrings/obj/Debug/net8.0/QueryingStrings.GeneratedMSBuildEditorConfig.editorconfig
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/QueryingStrings/obj/Debug/net8.0/QueryingStrings.AssemblyInfoInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/QueryingStrings/obj/Debug/net8.0/QueryingStrings.AssemblyInfo.cs
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/QueryingStrings/obj/Debug/net8.0/QueryingStrings.csproj.CoreCompileInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/QueryingStrings/obj/Debug/net8.0/QueryingStrings.sourcelink.json
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/QueryingStrings/obj/Debug/net8.0/QueryingStrings.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/QueryingStrings/obj/Debug/net8.0/refint/QueryingStrings.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/QueryingStrings/obj/Debug/net8.0/QueryingStrings.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/QueryingStrings/obj/Debug/net8.0/QueryingStrings.genruntimeconfig.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/QueryingStrings/obj/Debug/net8.0/ref/QueryingStrings.dll

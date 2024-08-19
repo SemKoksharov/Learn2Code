@@ -1,0 +1,15 @@
+/home/semkoksharov66/Projects/Learn2Code/C#/01-homework/01-homework/bin/Debug/net8.0/01-homework
+/home/semkoksharov66/Projects/Learn2Code/C#/01-homework/01-homework/bin/Debug/net8.0/01-homework.deps.json
+/home/semkoksharov66/Projects/Learn2Code/C#/01-homework/01-homework/bin/Debug/net8.0/01-homework.runtimeconfig.json
+/home/semkoksharov66/Projects/Learn2Code/C#/01-homework/01-homework/bin/Debug/net8.0/01-homework.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/01-homework/01-homework/bin/Debug/net8.0/01-homework.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/01-homework/01-homework/obj/Debug/net8.0/01-homework.GeneratedMSBuildEditorConfig.editorconfig
+/home/semkoksharov66/Projects/Learn2Code/C#/01-homework/01-homework/obj/Debug/net8.0/01-homework.AssemblyInfoInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/01-homework/01-homework/obj/Debug/net8.0/01-homework.AssemblyInfo.cs
+/home/semkoksharov66/Projects/Learn2Code/C#/01-homework/01-homework/obj/Debug/net8.0/01-homework.csproj.CoreCompileInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/01-homework/01-homework/obj/Debug/net8.0/01-homework.sourcelink.json
+/home/semkoksharov66/Projects/Learn2Code/C#/01-homework/01-homework/obj/Debug/net8.0/01-homework.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/01-homework/01-homework/obj/Debug/net8.0/refint/01-homework.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/01-homework/01-homework/obj/Debug/net8.0/01-homework.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/01-homework/01-homework/obj/Debug/net8.0/01-homework.genruntimeconfig.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/01-homework/01-homework/obj/Debug/net8.0/ref/01-homework.dll

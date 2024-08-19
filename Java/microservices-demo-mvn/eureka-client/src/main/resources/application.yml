@@ -1,5 +1,5 @@
 server:
-  port: 0  # Разрешает Spring Boot автоматически назначать порт
+  port: 0  # Port will be assigned automatically
 
 spring:
   application:

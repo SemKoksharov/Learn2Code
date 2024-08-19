@@ -1,0 +1,15 @@
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringComparison/bin/Debug/net8.0/StringComparison
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringComparison/bin/Debug/net8.0/StringComparison.deps.json
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringComparison/bin/Debug/net8.0/StringComparison.runtimeconfig.json
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringComparison/bin/Debug/net8.0/StringComparison.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringComparison/bin/Debug/net8.0/StringComparison.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringComparison/obj/Debug/net8.0/StringComparison.GeneratedMSBuildEditorConfig.editorconfig
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringComparison/obj/Debug/net8.0/StringComparison.AssemblyInfoInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringComparison/obj/Debug/net8.0/StringComparison.AssemblyInfo.cs
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringComparison/obj/Debug/net8.0/StringComparison.csproj.CoreCompileInputs.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringComparison/obj/Debug/net8.0/StringComparison.sourcelink.json
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringComparison/obj/Debug/net8.0/StringComparison.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringComparison/obj/Debug/net8.0/refint/StringComparison.dll
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringComparison/obj/Debug/net8.0/StringComparison.pdb
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringComparison/obj/Debug/net8.0/StringComparison.genruntimeconfig.cache
+/home/semkoksharov66/Projects/Learn2Code/C#/CSharpStrings/StringComparison/obj/Debug/net8.0/ref/StringComparison.dll
