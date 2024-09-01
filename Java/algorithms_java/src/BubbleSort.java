@@ -5,6 +5,13 @@ public class BubbleSort {
         System.out.println("Original: ");
         printArray(array);
 
+        bubbleSort(array);
+
+        System.out.println("Final result");
+        printArray(array);
+    }
+
+    private static void bubbleSort(int[] array) {
         boolean isSorted = false;
 
         while (! isSorted){
@@ -19,8 +26,6 @@ public class BubbleSort {
             }
             printArray(array);
         }
-        System.out.println("Final result");
-        printArray(array);
     }
 
     public static void printArray(int[] array) {
